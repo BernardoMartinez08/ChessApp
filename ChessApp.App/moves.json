@@ -1,0 +1,13 @@
+[
+    {
+        "PieceType": "Knight",
+        "SourceSquare": {
+            "Column": "g",
+            "Row": 1
+        },
+        "TargetSquare": {
+            "Column": "f",
+            "Row": 3
+        }
+    }
+]
