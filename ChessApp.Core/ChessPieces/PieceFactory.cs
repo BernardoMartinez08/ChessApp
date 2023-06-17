@@ -15,7 +15,7 @@ namespace ChessApp.Core.ChessPieces
         {
             try
             {
-                var typeName = $"ChessApp.Core.Pieces.{pieceType}Piece";
+                var typeName = $"ChessApp.Core.ChessPieces.{pieceType}";
                 var type = Type.GetType(typeName);
 
                 if (type != null && typeof(ChessPiece).IsAssignableFrom(type))
