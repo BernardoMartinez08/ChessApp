@@ -1,4 +1,4 @@
-﻿using ChessApp.App;
+﻿using ChessApp.Core;
 using ChessApp.Core.ChessPieces;
 using ChessApp.Infrastructure.Loggers;
 using ChessApp.Infrastructure.Readers;

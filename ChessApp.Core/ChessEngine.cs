@@ -1,10 +1,9 @@
-﻿using ChessApp.Core;
-using ChessApp.Core.Enums;
+﻿using ChessApp.Core.Enums;
 using ChessApp.Core.Interfaces;
 using ChessApp.Core.Models;
 using System;
 
-namespace ChessApp.App
+namespace ChessApp.Core
 {
     public class ChessEngine
     {
